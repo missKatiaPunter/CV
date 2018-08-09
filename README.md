@@ -1,8 +1,12 @@
+
 # KATIA (EKATERINA) PUNTER - CURRICULUM VITAE :page_facing_up:
 #### Full Stack Web Developer
 #### lives in Welwyn Garden City, Herts, works in London
-#### BSc Magna Cum Laude, PGCE
+#### BSc in Computerised Systems, Magna Cum Laude, PGCE
 
 ## About me
-I had a successful teaching career with a number of leadership positions on my 'teaching' CV. Ranting about the devastating effects of privatisation of education remains my hobby. I am a Founders and Coders graduate (FAC 13) and their huge fan. Socialism advocate. From the USSR.
+I had a successful teaching career with a number of leadership positions on my 'teaching' CV. I strive not to talk to about privitisation of education in tech interview. I am a huge fan of Founders and Coders and a FAC 13 graduate. Socialism advocate. From the USSR.
+#
+# Projects
+#
 
